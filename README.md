@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sichan-kim-6584741a4/)](https://www.linkedin.com/in/sichan-kim-6584741a4/)
 
 I am Sichan Kim interested in Data Engineer.
 My major is Data Science at University of Wisconsin - Madison.
