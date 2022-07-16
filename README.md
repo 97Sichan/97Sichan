@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Sichan Kim interested in Data Engineer.
+My major is Data Science at University of Wisconsin - Madison
 <!--
 **97Sichan/97Sichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
