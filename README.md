@@ -3,7 +3,7 @@ I am Sichan Kim interested in Data Engineer.
 My major is Data Science at University of Wisconsin - Madison.
 
 
-If you want to contact me, please send me an email or message! 
+If you want to contact me, please send me an email or message! //
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sichan-kim-6584741a4/)](https://www.linkedin.com/in/sichan-kim-6584741a4/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sikim1080@gmail.com)](mailto:sikim1080@gmail.com)
 
 
