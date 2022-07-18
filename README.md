@@ -30,3 +30,7 @@ If you want to contact me, please send me an email or message!       <p>       <
 - The Republic of Korea Army, Sergeant as Tactical C4I Management(Sep. 2020 – Mar. 2022)
 
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
