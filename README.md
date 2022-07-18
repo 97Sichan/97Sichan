@@ -32,5 +32,5 @@ If you want to contact me, please send me an email or message!       <p>       <
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
